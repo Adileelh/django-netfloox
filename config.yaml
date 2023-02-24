@@ -1,0 +1,6 @@
+mysql:
+  host: greta-p2-g4.westeurope.cloudapp.azure.com
+  user: root
+  password: greta2023
+  driver: mysql
+  database: netfloox
